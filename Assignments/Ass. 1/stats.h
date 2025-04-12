@@ -13,8 +13,8 @@
  * @brief Definitions and macros required for the c1m1 assignment
  *
  *
- * @author Mohammed Abdelalim
- * @date 7/9/2020
+ * @author Shashank M M
+ * @date 12/04/25
  *
  */
 #ifndef __STATS_H__
