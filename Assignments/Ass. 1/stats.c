@@ -12,10 +12,10 @@
  * @file stats.c
  * @brief The implementation file of the c1m1 assignment
  *
- * This file includes all the required functions implementations in the c1m1 assignment
+ * This ZIP file includes the required functions implementations in the week-1 c1m1 assignment
  *
- * @author Mohammed Abdelalim
- * @date 7/9/2020
+ * @author Shashank M M
+ * @date 12-04-25
  *
  */
 
